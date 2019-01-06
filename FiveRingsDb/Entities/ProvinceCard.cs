@@ -1,4 +1,4 @@
-namespace FiveRingsDb.Entities
+﻿namespace FiveRingsDb.Entities
 {
     public class ProvinceCard : Card
     {
